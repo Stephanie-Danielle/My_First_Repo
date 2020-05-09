@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #f6f6f6;
+}
+
+.topNav{
+    height:50px;
+    position: sticky;
+    top:-1px;
+    margin:0;
+}
+
+.container{
+    display: flex;
+}
+
+.left{
+    display: inline-block;;
+    background-color: lightGrey;
+    border: 1px solid black;
+    height: 100vh;
+    width: 29%;
+}
+
+.right{
+    display: inline-block;
+    background-color: lightGrey;
+    width:71%;
+}
+
+.article{}
+
+.main-copy{}
+
+.navigation{
+    display: inline-block;
+    background-color: grey;
+    height: 50px;
+    widows: 200px;
+    margin:0;
+}
+
+.button{
+    color:white;
+}
+
+.button
